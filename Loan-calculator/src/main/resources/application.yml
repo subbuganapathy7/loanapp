@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+
+application:
+name: Loan Generator
+jackson:
+serialization:
+indent_output: true
